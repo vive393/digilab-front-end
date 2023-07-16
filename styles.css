@@ -1,0 +1,199 @@
+
+
+*{
+    box-sizing: border-box;
+    
+}
+
+
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-family: Montserrat, serif;
+    background-color: #f9f8f8;
+    }
+
+
+button {
+        border: 2px solid black;
+        background-color: white;
+        padding: 14px 28px;
+        font-size: 16px;
+        cursor: pointer;
+        border-color: rgb(130, 247, 107);
+        color: #7CFC00;
+        border-radius: 25px;
+      }
+      
+button:hover {
+        background-color: rgb(130, 247, 107);
+        color: white;
+      }
+      
+.idk{
+    color: black;
+
+}
+.topfont{
+    color: rgb(130, 247, 107);
+}
+.nothome{
+    padding: 0;
+    
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+
+    
+
+
+.nav ul {
+    margin: 0;
+    color: black;
+}
+
+.nav li {
+    display: inline;
+}
+
+.nav a {
+    display: inline-block;
+    padding: .5em;
+    text-decoration: none;
+}
+.nav a:hover {
+    background-color: rgba(130, 247, 107, 0.4);
+    border-radius: 5px;
+}
+
+.ni{
+    text-align: center;
+    font-size: 3em;
+}
+
+.nippadding{
+    padding: 0 7%;
+}
+
+.main-nav {
+    text-align: right;
+    font-size: 1em;
+    border-bottom: 1px solid rgba(255, 255, 255, .3);
+    font-weight: lighter;
+    padding: 2em;
+    font-family: 'Montserrat', sans-serif; font-weight: 400;
+    color: black;
+    background-color: #f9f8f8;
+    
+}
+.brand{
+    margin-right: 30em;
+    font-weight: bold;
+    font-size: 2em;
+    position: absolute;
+    left: 90px;
+
+    
+}
+.green{
+    color: rgb(130, 247, 107);
+}
+
+.main-nav li{
+    padding: 0 .2%;
+     
+}
+.main-header {
+    background-color: white;
+    padding-bottom: 0px;
+}
+.services{
+    font-size: 5rem;
+}
+.text-div{
+    float: left;
+    max-width: 600px;
+    font-size:1em;
+    text-align: left;
+    margin: 150px 30px;
+    padding: 0 5%;
+    position:absolute;
+    top: 0;
+    bottom: 0;
+}
+.onlyindex {
+    font-weight: lighter;
+    font-size: 3em;
+}
+.imp{
+    font-weight: bold;
+    font-family: 'Libre Baskerville', serif;
+}
+.img-div{
+    
+    float: right;
+    width: 50%;
+    
+
+}
+.main-img{
+    width: 100%;
+    height: auto;
+    padding-right: 32px;
+    border-radius: 10px;
+
+}
+.img{
+   width: 100%;
+   height: auto;
+}
+section
+{
+    padding: 1% 7%;
+}
+
+label{
+    margin: 5px;
+}
+i{
+    font-family: sans-serif;
+    font-style: italic;
+}
+.hover:hover{
+    background-color: rgba(130, 247, 107, 0.4);
+    border-radius: 5px;
+}
+p{
+    padding: 1%
+}
+h4{
+    color: rgb(130, 247, 107);
+    font-family: monospace; font-weight: bold; font-size: 120%;
+}
+
+.k{
+    padding: 0 7%;
+    line-height: 3rem;
+    background-color: rgb(130, 247, 107);
+    font-family: Montserrat;
+    text-decoration: underline;
+}
+
+.x{
+    list-style: none;
+    text-align: center;
+    padding: 30px 0;
+    line-height: 50px;
+    font-size: 120%;
+}
+
+.ulist{
+    background-color: rgba(130, 247, 107, 0.4);
+    border-radius: 10px;
+}
